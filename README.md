@@ -1,0 +1,1 @@
+Data science project building a model using the Least Sqaures Method to predict job salaries in New York City.
